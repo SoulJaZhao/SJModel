@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SJModel_Example' do
+  pod 'SJModel', :path => '../'
+
+  target 'SJModel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
