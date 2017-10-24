@@ -1,0 +1,22 @@
+{
+  "name": "SJModel",
+  "version": "0.1.0",
+  "summary": "A short description of SJModel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/superzhaolong@126.com/SJModel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "superzhaolong@126.com": "zhaolong01@shengpay.com"
+  },
+  "source": {
+    "git": "https://github.com/superzhaolong@126.com/SJModel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SJModel/Classes/**/*"
+}
